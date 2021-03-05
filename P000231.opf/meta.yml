@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000231
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །འཇམ་དབྱངས་སྤྲུལ་པའི་གླེགས་བམ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
-  sku: SHE-SHAP-08
   layers:
   - book_title
   - author
   - quotation
   - yigchung
+  id: SHE-SHAP-08
 web_metadata:
   title:
     en: The Book of Emanated Scripture of Manjushri
